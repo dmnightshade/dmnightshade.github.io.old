@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darren M Nightshade</title>
+    <description>Just a Developer, Nothing To See Here.</description>
+    <link>http://localhost:8000</link>
+    <atom:link href="http://localhost:8000/feed.xml" rel="self" type="application/rss+xml" />
+    <author>
+      <name>Darren M. Nightshade</name>
+      <email>darren@dmnightshade.com</email>
+      <uri>https://dmnightshade.com</uri>
+    </author>
+    
+      <item>
+        <title>Nightshade Goes Live</title>
+        <description>&lt;h1 id=&quot;nightshade-is-live&quot;&gt;&lt;a href=&quot;#header-1&quot;&gt;&lt;/a&gt;Nightshade is Live&lt;/h1&gt;
+
+&lt;p&gt;Welcome to my new site. You can follow me on twitter at &lt;a href=&quot;https://twitter.com/niteshadedev&quot;&gt;NiteshadeDev&lt;/a&gt;for developer related stuff  and &lt;a href=&quot;https://twitter.com/mrcursived&quot;&gt;MrCursiveD&lt;/a&gt; complete random stuff.
+You can check out my Dev Blogs On Youtube on &lt;a href=&quot;https://www.youtube.com/channel/UCkPAvYJDxIr8ECM1SSo-hdg&quot;&gt;my channel&lt;/a&gt; or on the &lt;a href=&quot;https://www.youtube.com/channel/UCBckgVewuhJUkSnkulIXQZw%3E&quot;&gt;Official Computer Diva Entertainment&lt;/a&gt; channel.
+I will be doing a post about Project Helheim soon along with a vlog over on both my channel and the Computer Diva Entertainment channel along with a video about the origin of the name, other projects in the works and
+some behind the screen videos with the rest of the Diva Team, including the Social Media Maven, Head Audio Dude, and more.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Jun 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:8000//Site-Goes-Live</link>
+        <link href="http://localhost:8000/Site-Goes-Live"/>
+        <guid isPermaLink="true">http://localhost:8000/Site-Goes-Live</guid>
+      </item>
+    
+  </channel>
+</rss>
